@@ -1,0 +1,9 @@
+{
+    "name": "user1991/my-core",
+    "autoload": {
+        "psr-4": {
+            "User1991\\MyCore\\": "src/"
+        }
+    },
+    "require": {}
+}

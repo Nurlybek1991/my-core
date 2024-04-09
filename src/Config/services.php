@@ -5,15 +5,12 @@ use Controller\MainController;
 use Controller\OrderController;
 use Controller\ProductController;
 use Controller\UserController;
-
 use Core\Container;
-
 use Repository\OrderProductRepository;
 use Repository\OrderRepository;
 use Repository\ProductRepository;
 use Repository\UserProductRepository;
 use Repository\UserRepository;
-
 use Service\AuthenticationService\AuthenticationServiceInterface;
 use Service\AuthenticationService\AuthenticationSessionService;
 use Service\CartService;
